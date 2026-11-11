@@ -1,0 +1,11 @@
+{
+  "name": "Angol gyakorló",
+  "short_name": "Angol gyakorló",
+  "lang": "hu",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff8ee",
+  "theme_color": "#6b4eff",
+  "description": "Magyar nyelvű angol gyakorló"
+}
